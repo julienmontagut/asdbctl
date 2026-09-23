@@ -1,7 +1,7 @@
 Apple Studio Display Brightness Control
 +++++++++++++++++++++++++++++++++++++++
 This small command line utility allows for changing the brightness of one or
-more Apple Studio Display(s) attached to a Linux or Windows PC.
+more Apple Studio Display(s) attached to a Linux PC.
 
 .. code-block::
 
